@@ -1,12 +1,12 @@
 # 🏢 OmniFranchise (FranchiseOpsAI) — Enterprise Franchise Intelligence Network
 
-> **Infosys Internship Team Capstone Project 2026**  
-> **Repository**: [Chandana-Projects/FranchiseManagementSystem](https://github.com/Chandana-Projects/FranchiseManagementSystem)  
-> **Milestone**: 🏆 **Gold Master Release v1.0.0 • 175 Commits Milestone (112+ Lead Architect Century Commits 💯)**
+> **Infosys Internship Capstone Project 2026**  
+> **Repository**: [AbhishekPattnaik124/omni-franschise](https://github.com/AbhishekPattnaik124/omni-franschise)  
+> **Milestone**: 🏆 **Gold Master Release v1.0.0 • 177 Commits Milestone (100% Solo Lead Architect 💯)**
 
-[![Infosys Internship](https://img.shields.io/badge/Infosys-Team_Capstone_Project-blue?logo=infosys)](https://www.infosys.com/)
-[![112 Commits Milestone](https://img.shields.io/badge/Lead_Architect-112_Commits_Century_💯-gold?logo=github)](https://github.com/AbhishekPattnaik124)
-[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0--Gold_Master-success)](https://github.com/Chandana-Projects/FranchiseManagementSystem)
+[![Infosys Internship](https://img.shields.io/badge/Infosys-Capstone_Project-blue?logo=infosys)](https://www.infosys.com/)
+[![177 Commits Milestone](https://img.shields.io/badge/Lead_Architect-177_Commits_Century_💯-gold?logo=github)](https://github.com/AbhishekPattnaik124)
+[![Release v1.0.0](https://img.shields.io/badge/Release-v1.0.0--Gold_Master-success)](https://github.com/AbhishekPattnaik124/omni-franschise)
 [![Next.js 16](https://img.shields.io/badge/Next.js-v16.2.11-black?logo=next.js)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-v19.2.4-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-v5.0-3178C6?logo=typescript)](https://www.typescriptlang.org/)
@@ -23,17 +23,15 @@
 
 ---
 
-## 👥 Infosys Project Team & Member Contributions
+## 🧑‍💻 Project Author & Lead Architect
 
-We are proud to present **OmniFranchise**, a collaborative enterprise solution engineered by our 3-member team:
+We are proud to present **OmniFranchise**, an enterprise solution engineered and architected by **Abhishek Pattnaik**:
 
-| Team Member | GitHub Profile | Role & Key Technical Focus | Commits Authored | Contribution % |
+| Author | GitHub Profile | Role & Technical Architecture | Commits Authored | Contribution % |
 | :--- | :--- | :--- | :---: | :---: |
-| 🧑‍💻 **Abhishek Pattnaik** | [@AbhishekPattnaik124](https://github.com/AbhishekPattnaik124) | **Full-Stack & ML Architect** — UI/UX Glassmorphic Design System, FastAPI ML Microservice (Prophet / XGBoost / Isolation Forest), 23+ Heavy Enterprise Operations Modals, War Room Boardroom Kiosk, Multi-Store Arena, Margin Sensitivity Matrix, PDF Studio, CCTV AI Vision Sentinel, Recipe BOM Variance, Royalty Evasion Auditor, Aggregator Reconciler, Equipment SLA, Statutory Shield, Multi-Channel Notification Engine (Email, SMS, Circuit Breaker, SLA Escalation Engine), Notification Hub Offline-Resilient Fallback Layer, Custom Glassmorphic Dropdown Architecture & 12+ Domain Visualizations | **112 Commits 💯** | **64.0%** |
-| 👩‍💻 **Chandana S** | [@Chandana-Projects](https://github.com/Chandana-Projects) | **Full-Stack Lead & Project Admin** — Repository Owner & Git Administration, Express 5 REST API Gateway, PostgreSQL Prisma ORM Schemas & Migrations, JWT Authentication & RBAC Filters, Action Plans REST API (`/api/action-plans`), Web Push VAPID Subscription Engine (`/api/push`), and Core Backend Modules | **35 Commits** | **20.0%** |
-| 👩‍💻 **Mamta Choudhary** | [@mamta072703](https://github.com/mamta072703) | **Software Engineer & QA Lead** — Inventory Telemetry Analytics, Reorder Threshold Alerts, HACCP Food Safety Compliance Audits, Automated Purchase Order (PO) Workflows, Jest & Supertest Automated API Test Suites (18/18 Passing), Frontend QA, Notification Action Plans Studio & Member 3 Integration Guide (`Member3_WorkGuide.md`) | **28 Commits** | **16.0%** |
+| 🧑‍💻 **Abhishek Pattnaik** | [@AbhishekPattnaik124](https://github.com/AbhishekPattnaik124) | **Sole Project Architect & Full-Stack / ML Engineer** — UI/UX Glassmorphic Design System, FastAPI ML Microservice (Prophet / XGBoost / Isolation Forest), Express 5 REST API Gateway, PostgreSQL Prisma ORM Schemas & Migrations, JWT Authentication & RBAC Filters, 23+ Heavy Enterprise Operations Modals, War Room Boardroom Kiosk, Multi-Store Arena, Margin Sensitivity Matrix, PDF Studio, CCTV AI Vision Sentinel, Recipe BOM Variance, Royalty Evasion Auditor, Aggregator Reconciler, Equipment SLA, Statutory Shield, Multi-Channel Notification Engine (Email, SMS, Circuit Breaker, SLA Escalation Engine), Web Push VAPID Subscription Engine, Notification Hub Offline-Resilient Fallback Layer, Custom Glassmorphic Dropdown Architecture, Automated Jest/Supertest Test Suites & 12+ Domain Visualizations | **177 Commits 💯** | **100.0%** |
 
-> 📊 **Total Repository History**: **175 Commits** across frontend, backend REST APIs, machine learning pipelines, test automation, database schemas, notification resilience, and UI responsive architecture.
+> 📊 **Total Repository History**: **177 Commits** across frontend, backend REST APIs, machine learning pipelines, test automation, database schemas, notification resilience, and UI responsive architecture.
 
 ---
 
@@ -396,7 +394,6 @@ FranchiseManagementSystem/
 │   └── requirements.txt              # Python Dependencies
 ├── dataset/                          # Canonical Enterprise Datasets
 ├── docker-compose.yml                # Full-Stack Multi-Container Orchestration
-├── Member3_WorkGuide.md              # Frontend & QA Engineer Work Specification
 ├── PRD.md                            # Product Requirements Document
 └── TRD.md                            # Technical Requirements Document
 ```
@@ -548,6 +545,7 @@ OmniFranchise enforces strict operational boundaries across 5 enterprise persona
 ## 📄 License & Compliance
 
 - **Project Type**: Infosys Internship Capstone Project 2026
-- **Repository**: [Chandana-Projects/FranchiseManagementSystem](https://github.com/Chandana-Projects/FranchiseManagementSystem)
+- **Repository**: [AbhishekPattnaik124/omni-franschise](https://github.com/AbhishekPattnaik124/omni-franschise)
+- **Author & Architect**: Abhishek Pattnaik ([@AbhishekPattnaik124](https://github.com/AbhishekPattnaik124))
 - **License**: MIT Enterprise License  
 - **Confidentiality & Compliance**: Engineered in strict adherence to Infosys Capstone technical standards, enterprise security guidelines, and multi-tenant cloud architecture principles.

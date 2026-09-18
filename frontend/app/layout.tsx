@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "OmniFranchise — Enterprise Franchise Intelligence Network",
     description: "Multi-tenant AI operations and franchise intelligence network platform built with Next.js 16, Express, and FastAPI.",
-    url: "https://github.com/Chandana-Projects/FranchiseManagementSystem",
+    url: "https://github.com/AbhishekPattnaik124/omni-franschise",
     siteName: "OmniFranchise AI",
     images: [
       {
