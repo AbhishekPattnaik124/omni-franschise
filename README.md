@@ -23,19 +23,7 @@
 
 ---
 
-## 🧑‍💻 Project Author & Lead Architect
-
-We are proud to present **OmniFranchise**, an enterprise solution engineered and architected by **Abhishek Pattnaik**:
-
-| Author | GitHub Profile | Role & Technical Architecture | Commits Authored | Contribution % |
-| :--- | :--- | :--- | :---: | :---: |
-| 🧑‍💻 **Abhishek Pattnaik** | [@AbhishekPattnaik124](https://github.com/AbhishekPattnaik124) | **Sole Project Architect & Full-Stack / ML Engineer** — UI/UX Glassmorphic Design System, FastAPI ML Microservice (Prophet / XGBoost / Isolation Forest), Express 5 REST API Gateway, PostgreSQL Prisma ORM Schemas & Migrations, JWT Authentication & RBAC Filters, 23+ Heavy Enterprise Operations Modals, War Room Boardroom Kiosk, Multi-Store Arena, Margin Sensitivity Matrix, PDF Studio, CCTV AI Vision Sentinel, Recipe BOM Variance, Royalty Evasion Auditor, Aggregator Reconciler, Equipment SLA, Statutory Shield, Multi-Channel Notification Engine (Email, SMS, Circuit Breaker, SLA Escalation Engine), Web Push VAPID Subscription Engine, Notification Hub Offline-Resilient Fallback Layer, Custom Glassmorphic Dropdown Architecture, Automated Jest/Supertest Test Suites & 12+ Domain Visualizations | **177 Commits 💯** | **100.0%** |
-
-> 📊 **Total Repository History**: **177 Commits** across frontend, backend REST APIs, machine learning pipelines, test automation, database schemas, notification resilience, and UI responsive architecture.
-
----
-
-## 🏆 Project & Team Performance Rating
+## 🏆 Project Performance Rating
 
 ### 🌟 Project Evaluation: 10 / 10 (Gold Master Enterprise Grade)
 
